@@ -32,7 +32,7 @@ It supports adding, updating, and viewing student information through a basic me
    ```
 3. Run the program:  
    ```bash
-   ./student_manager
+   ./main
    ```
 
 ---
